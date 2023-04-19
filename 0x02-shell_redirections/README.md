@@ -1,1 +1,1 @@
-last lines of a file
+this script displays the head
